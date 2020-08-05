@@ -1,0 +1,12 @@
+{
+    "name": "uho67/test",
+    "type": "module",
+    "license": "proprietary",
+    "description": "test module",
+    "authors": [
+        {
+            "name": "Allan Paiste",
+            "email": "allan.paiste@vaimo.com"
+        }
+    ]
+}
